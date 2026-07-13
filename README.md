@@ -14,7 +14,7 @@ Built for personal projects, indie makers, and anyone who wants **real analytics
 | 📊 Page views & unique visitors | 🌍 Visitors by country (full country names) |
 | ⏱️ Average visit duration | 🔗 Top referrers (including Direct) |
 | 🚪 Bounce rate | 📄 Top pages |
-| 🟢 Active visitors (live) | 🗓️ Date range selector (24h / 7d / 30d / 90d) |
+| 🟢 Active visitors (live) | 🗓️ Date range selector (24h / 7d / 30d / 90d / 180d / 12 months) |
 | 🖥️ Browsers, OS & Devices | 📤 CSV & JSON export |
 | 🔍 Interactive filtering | 🔐 Password-protected dashboard |
 
