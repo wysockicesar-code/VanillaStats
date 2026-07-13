@@ -78,7 +78,7 @@ It sends no cookies and stores no personal data.
 ## Dashboard
 
 ### Date Range
-Select 24 hours, 7 days, 30 days, or 90 days from the header. Switching range clears active filters.
+Select 24 hours, 7 days, 30 days, 90 days, 180 days or 12 months from the header. Switching range clears active filters.
 
 ### Filtering
 Click any row in Top Pages, Top Referrers, or Locations to exclude it from all stats. The dashboard updates immediately — no reload. Click a filter chip to remove it, or click the greyed-out row again.
