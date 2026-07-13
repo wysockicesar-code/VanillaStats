@@ -149,7 +149,7 @@ Full country names are shown — no raw ISO codes.
 
 This app is intentionally simple and focused:
 
-- No user accounts or multi-site support
+- No user accounts 
 - No event tracking or custom goals
 - No heatmaps or session recordings
 - No funnels or conversion tracking
